@@ -1,5 +1,7 @@
-# Raspberry-Pi-K8s-Cluster
-Raspberry Pi Kubernetes (K8s) Cluster
+# Raspberry Pi Kubernetes (K8s) Cluster
+This is my Home Laboratory to learn and play with.
+
+## Ubuntu Server v21.10
 
 <table>
   <tr>
