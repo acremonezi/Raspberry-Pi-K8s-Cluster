@@ -1,7 +1,7 @@
 # Raspberry Pi Kubernetes (K8s) Cluster
 This is my Home Laboratory to learn and play with.
 
-## Ubuntu Server v21.10
+## Hardwares:
 
 <table>
   <tr>
@@ -198,3 +198,5 @@ This is my Home Laboratory to learn and play with.
   </tr>
 </table>
 
+## Softwares:
+1. Ubuntu Server v21.10
